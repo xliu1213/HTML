@@ -1,0 +1,38 @@
+.back-to-amazon{
+  color: rgb(0, 113, 133);
+}
+
+.nike-black{
+  font-weight: bold;
+  font-size:x-large;
+}
+
+.in-stock{
+  font-weight: bolder;
+  color: rgb(0, 118, 0);
+}
+
+.free-delivery{
+  font-weight: bold;
+}
+
+.cart{
+  background-color: rgb(255, 216, 20);
+  height: 35px;
+  width: 120px;
+  border: none;
+  border-radius: 40px;
+  font-weight: bold;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.buy-now{
+  background-color: rgb(255, 164, 28);
+  height: 35px;
+  width: 120px;
+  border: none;
+  border-radius: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}

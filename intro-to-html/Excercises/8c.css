@@ -1,0 +1,18 @@
+.search-bar{
+  width: 483px;
+  font-size: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-left: 0px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  border: none;
+}
+
+img{
+  width: 200px;
+  display: block;
+  margin-left: 150px;
+}
