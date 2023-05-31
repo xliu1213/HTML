@@ -27,9 +27,7 @@ p {
 
 .mutual-friends {
   color: rgb(100, 100, 100);
-  margin-left: 8px;
-  margin-bottom: 12px;
-  display: inline-block;
+  vertical-align: middle;
 }
 
 .add-friend-button {
@@ -49,9 +47,19 @@ p {
 .icon{
   width: 28px;
   height: 28px;
-  display: inline-block;
   border-radius: 15px;
   object-fit: cover;
   margin-left: 8px;
   margin-top: 1px;
+}
+
+.mutual-friends-div{
+  display: inline-block;
+  margin-left: 4px;
+  margin-top: 6px;
+}
+
+.icon-div{
+  display: inline-block;
+  vertical-align: middle;
 }
