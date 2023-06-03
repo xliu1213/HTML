@@ -1,6 +1,8 @@
 .flexbox{
   display: flex;
   flex-direction: row;
+  align-items: center;
+  margin-bottom: 15px;
 }
 
 img{
@@ -8,4 +10,41 @@ img{
   height: 50px;
   object-fit: cover;
   border-radius: 45px;
+}
+
+.text{
+  margin-left: 15px;
+  font-family: Arial;
+  line-height: 22px;
+  width: 200px;
+}
+
+.oliver{
+  font-weight: bold;
+}
+
+.popular, .cat{
+  color: rgb(150, 150, 150);
+}
+
+p{
+  margin: 0;
+}
+
+button{
+  background-color:rgb(29, 155, 240);
+  color: white;
+  border:none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.popular{
+  font-size: 14px;
 }
