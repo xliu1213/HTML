@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-bottom: 15px;
+  margin-bottom: 20px; 
 }
 
 img{
@@ -15,16 +15,20 @@ img{
 .text{
   margin-left: 15px;
   font-family: Arial;
-  line-height: 22px;
   width: 200px;
 }
 
 .oliver{
   font-weight: bold;
+  margin-bottom: 3px;
 }
 
 .popular, .cat{
   color: rgb(150, 150, 150);
+}
+
+.cat{
+  margin-bottom: 5px;
 }
 
 p{
