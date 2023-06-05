@@ -8,10 +8,12 @@ img{
 }
 
 div{
-  background-color: lightblue;
   padding-top: 12px;
   padding-bottom: 12px;
   padding-left: 12px;
+  width: 480px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
 }
 
 input{
@@ -25,4 +27,12 @@ button{
   color: white;
   background-color: rgb(29, 155, 240);
   border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 20px;
+  vertical-align: middle;
 }
