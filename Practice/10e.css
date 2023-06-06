@@ -13,6 +13,7 @@ p{
 .name{
   font-size: 18px;
   font-weight: bold;
+  margin-left: 8px;
 }
 
 .mutual-friends-picture{
@@ -20,10 +21,12 @@ p{
   width: 28px;
   object-fit: cover;
   border-radius: 14px;
+  margin-left: 8px;
 }
 
 .mutual-friends{
-  color: rgb(100, 100, 100);;
+  color: rgb(100, 100, 100);
+  display: inline-block;
 }
 
 .add-friend-button{
@@ -36,4 +39,5 @@ p{
   padding-right: 20px;
   border-radius: 4px;
   font-size: 16px;
+  margin-left: 8px;
 }
