@@ -1,0 +1,9 @@
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  border-color: rgb(150, 150, 150);
+  border-width: 1px;
+  border-radius: 3px;
+  height: 50px;
+}
