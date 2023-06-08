@@ -1,9 +1,33 @@
-.flexbox{
-  display: flex;
-  flex-direction: row;
+.container{
   border-style: solid;
   border-color: rgb(150, 150, 150);
   border-width: 1px;
-  border-radius: 3px;
-  height: 50px;
+  border-radius: 7px;
+  height: 96px;
+  width: 288px;
+  padding-left: 12px;
+  padding-top: 8px;
+}
+
+div{
+  font-family: Arial;
+}
+
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.notifications{
+  background-color: rgb(49, 109, 245);
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 15px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-right: 10px;
 }
