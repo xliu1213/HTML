@@ -20,12 +20,11 @@ div{
 input{
   margin-top: 12px;
   margin-bottom: 12px;
-  padding-top: 9px;
-  padding-bottom: 9px;
   padding-left: 20px;
   width: 500px;
-  border-radius: 20px;
+  border-radius: 15px;
   border: none;
+  height: 30px;
 }
 
 .download{
