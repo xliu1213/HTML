@@ -1,9 +1,8 @@
 .container{
   border-style: solid;
-  border-color: rgb(150, 150, 150);
+  border-color: rgb(200, 200, 200);
   border-width: 1px;
   border-radius: 7px;
-  height: 96px;
   width: 288px;
   padding-left: 12px;
 }
