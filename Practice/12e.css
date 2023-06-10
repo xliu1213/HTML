@@ -6,7 +6,6 @@
   height: 96px;
   width: 288px;
   padding-left: 12px;
-  padding-top: 8px;
 }
 
 div{
@@ -17,6 +16,10 @@ div{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  padding-right: 12px;
+  padding-bottom: 6px;
+  padding-top: 6px;
+  align-items: center;
 }
 
 .notifications{
@@ -29,5 +32,4 @@ div{
   border-radius: 15px;
   font-weight: bold;
   font-size: 14px;
-  margin-right: 10px;
 }
