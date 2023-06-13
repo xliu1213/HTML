@@ -23,10 +23,21 @@ img{
   margin-right: 10px;
 }
 
+.email-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3px;
+}
+
 .chewy{
   font-weight: bold;
   font-size: 18px;
-  margin-bottom: 3px;
+}
+
+.send-time{
+  font-size: 14px;
+  color: rgb(120, 120, 120);
 }
 
 .sales{
