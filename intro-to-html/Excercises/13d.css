@@ -1,0 +1,52 @@
+.all-inboxes{
+  font-family: Arial;
+}
+
+.all-inboxes-text{
+  color: rgb(120, 120, 120);
+  margin-left: 15px;
+  padding-top: 10px;
+  font-size: 14px;
+}
+
+.rest-of-design{
+  background-color: lightpink;
+  display: flex;
+  align-items: center;
+  margin-top: 24px;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+
+.text{
+  font-family: Arial;
+}
+
+.chewy{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.sales{
+  font-weight: bold;
+}
+
+.hey{
+  color: rgb(120, 120, 120);
+}
+
+.container{
+  width: 430px;
+  margin-left: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  height: 142px;
+}
