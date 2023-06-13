@@ -8,7 +8,6 @@ div{
 }
 
 .rest-of-design{
-  background-color: lightpink;
   display: flex;
   align-items: center;
   margin-top: 20px;
@@ -28,6 +27,7 @@ img{
   justify-content: space-between;
   align-items: center;
   margin-bottom: 3px;
+  width: 340px;
 }
 
 .chewy{
@@ -51,8 +51,8 @@ img{
 
 .container{
   width: 400px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-top: 10px;
   padding-bottom: 10px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
