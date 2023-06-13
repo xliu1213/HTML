@@ -1,0 +1,62 @@
+div{
+  font-family: Arial;
+}
+
+.all-inboxes-text{
+  color: rgb(120, 120, 120);
+  font-size: 14px;
+}
+
+.rest-of-design{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img{
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+
+.email-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3px;
+  width: 340px;
+}
+
+.chewy{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.send-time{
+  font-size: 14px;
+  color: rgb(120, 120, 120);
+}
+
+.sales{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.hey{
+  color: rgb(120, 120, 120);
+}
+
+.container{
+  width: 400px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
