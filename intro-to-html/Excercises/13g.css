@@ -50,5 +50,20 @@ div{
   border-style: solid;
   border-color: rgb(200, 200, 200);
   overflow: hidden;
+  align-items: center;
   width: 349px;
+}
+
+.white-part{
+  flex: 1;
+  margin-left: 10px;
+}
+
+.video-link{
+  color: rgb(111, 111, 111);
+  margin-bottom: 3px;
+}
+
+.video-info{
+  line-height: 22px;
 }
