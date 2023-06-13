@@ -39,22 +39,16 @@ div{
 
 .gray-part{
   height: 100px;
-  width: 349px;
+  width: 100px;
   background-color: rgb(220, 220, 220);
-  border-radius: 15px;
-  border-width: 1px;
-  border-style: solid;
-  border-color: rgb(200, 200, 200);;
-}
-
-.white-part{
-  height: 100px;
-  width: 230px;
-  background-color: white;
-  margin-left: -239px;
-  border-radius: 15px;
 }
 
 .grey-and-white-part{
   display: flex;
+  border-radius: 15px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  overflow: hidden;
+  width: 349px;
 }
