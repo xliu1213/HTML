@@ -1,0 +1,63 @@
+.container{
+  width: 415px;
+  margin-left: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-bottom: 30px;
+}
+
+div{
+  font-family: Arial;
+}
+
+.all-inboxes{
+  color: rgb(120, 120, 120);
+  font-size: 14px;
+}
+
+img{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.rest-of-design{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.title-line{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3px;
+  align-items: center;
+}
+
+.rest-of-text{
+  margin-left: 10px;
+}
+
+.chewy{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.sales{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.hey{
+  color: rgb(120, 120, 120);
+}
+
+.time{
+  color: rgb(120, 120, 120);
+  font-size: 14px;
+  margin-left: 125px;
+}
