@@ -4,6 +4,10 @@
   padding-left: 42px;
   padding-right: 42px;
   justify-content: space-between;
+  position: fixed;
+  left: 8px;
+  right: 8px;
+  top: 5px;
 }
 
 img{
@@ -23,7 +27,7 @@ img{
   background-color: rgb(24, 119, 242);
   color: white;
   font-weight: bold;
-  border-radius: 5px;
+  border-radius: 6px;
   border: none;
   padding-left: 12px;
   padding-right: 12px;
@@ -35,7 +39,7 @@ img{
 .message-button{
   background-color: rgb(230, 230, 230);
   font-weight: bold;
-  border-radius: 5px;
+  border-radius: 6px;
   border: none;
   padding-left: 12px;
   padding-right: 12px;
