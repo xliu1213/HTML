@@ -18,3 +18,45 @@ img{
   bottom: 0;
   left: 0;
 }
+
+.grey{
+  margin-left: 62px;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+
+p{
+  font-family: Arial;
+  margin: 0;
+}
+
+.title{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.grey{
+  background-color: rgb(55, 55, 55);
+  width: 150px;
+}
+
+.info{
+  font-size: 14px;
+  color: white;
+}
+
+.plus{
+  color: rgb(150, 150, 150);
+  font-size: 25px;
+}
+
+.details{
+  color: rgb(150, 150, 150);
+}
+
+.text{
+  margin-bottom: 15px;
+}
