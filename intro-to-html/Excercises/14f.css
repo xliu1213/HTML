@@ -3,12 +3,18 @@ img{
   width: 50px;
   border-radius: 25px;
   object-fit: cover;
-  margin-bottom: 7px;
+  margin-top: 10px;
 }
 
 .black{
   display: flex;
   flex-direction: column;
-  background-color: black;
-  width: 50px;
+  background-color: rgb(33, 33, 33);
+  width: 70px;
+  align-items: center;
+
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
 }
