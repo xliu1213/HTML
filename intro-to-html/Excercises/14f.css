@@ -1,0 +1,14 @@
+img{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  margin-bottom: 7px;
+}
+
+.black{
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  width: 50px;
+}
