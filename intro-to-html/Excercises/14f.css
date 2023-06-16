@@ -24,6 +24,9 @@ img{
   padding-left: 15px;
   padding-top: 15px;
   padding-right: 15px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
 }
 
 p{
@@ -58,5 +61,5 @@ p{
 }
 
 .text{
-  margin-bottom: 15px;
+  margin-bottom: 16px;
 }
