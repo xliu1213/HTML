@@ -1,7 +1,6 @@
 .row{
   display: flex;
   align-items: center;
-  justify-content: space-between;
   width: 350px;
 }
 
@@ -14,6 +13,7 @@ img{
 
 .text{
   margin-left: 15px;
+  width: 200px;
 }
 
 div{
