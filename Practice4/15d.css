@@ -1,0 +1,39 @@
+.container{
+  position: fixed;
+  background-color: grey;
+  bottom: 20px;
+  right: 20px;
+  width: 320px;
+  height: 180px;
+}
+
+.x{
+  position: absolute;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  width: 45px;
+  height: 45px;
+  border-radius: 30px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: -18px;
+  left: -18px;
+}
+
+.timestamp{
+  position: absolute;
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  bottom: 10px;
+  right: 10px;
+  width: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 31px;
+  font-size: 18px;
+}
