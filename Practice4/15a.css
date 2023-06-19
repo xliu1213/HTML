@@ -3,12 +3,13 @@ div{
   background-color: black;
   color: white;
   font-family: Arial;
-  padding-top: 11px;
-  padding-bottom: 11px;
-  padding-left: 16px;
-  padding-right: 16px;
+  width: 45px;
+  height: 45px;
   border-radius: 30px;
   right: 15px;
   top: 15px;
   font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
